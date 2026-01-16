@@ -1,6 +1,6 @@
 # pcp_layout.py - Analyze PCP (Performance Co-Pilot) logs for system performance metrics
 # Usage: python3 pcp_layout.py [logfile] [start_time] [end_time]
-# Example: python3 pcp_layout.py "2026-01-01 12:00" "2023-01-01 12:01"  [ Please use it for small iteration like a minute or two ]
+# Example: python3 pcp_layout.py 20260115.8.xz "2026-01-15 12:00" "2023-01-15 12:01"  [ Please use it for small iteration like a minute or two ]
 # Author: vishwanath.bombalekar@oracle.com
 
 import os
